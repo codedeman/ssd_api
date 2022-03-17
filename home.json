@@ -20,6 +20,7 @@
           },
           "nav": {
             "type": "SingleSectionPlacement",
+            "title": "Ủng hộ Quỹ vắc-xin Covid 19",
             "sectionDetail": {
               "sectionId": "toolbar_section"
             }
@@ -32,8 +33,9 @@
           }
         }
       }
-    },
+    }
   ],
+  
   "sections": [
     {
       "id": "toolbar_section",
