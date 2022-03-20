@@ -1,41 +1,4 @@
 {
-  "screens": [
-    {
-      "id": "ROOT",
-      "screenProperties": {},
-      "layout": {
-        "wide": {},
-        "compact": {
-          "type": "SingleColumnLayout",
-          "main": {
-            "type": "MultipleSectionsPlacement",
-            "sectionDetails": [
-              {
-                "sectionId": "hero_section"
-              },
-              {
-                "sectionId": "title_section"
-              }
-            ]
-          },
-          "nav": {
-            "type": "SingleSectionPlacement",
-            "title": "Ủng hộ Quỹ vắc-xin Covid 19",
-            "sectionDetail": {
-              "sectionId": "toolbar_section"
-            }
-          },
-          "footer": {
-            "type": "SingleSectionPlacement",
-            "sectionDetail": {
-              "sectionId": "book_bar_footer"
-            }
-          }
-        }
-      }
-    }
-  ],
-    
     "sections":[
         
         {
