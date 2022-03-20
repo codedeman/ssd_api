@@ -37,11 +37,24 @@
   ],
     
     "sections":[
+        
+        {
+            "id":"background",
+            "sectionComponentType": "BACKGROUND",
+            "section":{
+                "type":"BACKGROUND",
+                "images": [
+                  "https://raw.githubusercontent.com/codedeman/ssd_api/gh-pages/bg1%403x.png",
+                  "https://raw.githubusercontent.com/codedeman/ssd_api/gh-pages/bg1%402x.png"
+                ]
+            }
+        },
       {
-        "id":"toolbar_section",
-       "sectionComponentType": "TOOLBAR",
+          
+        "id":"navbar_section",
+       "sectionComponentType": "Navbar",
        "section": {
-          "type": "ToolbarSection",
+          "type": "Navbar",
           "title":"Ủng hộ Quỹ vắc-xin Covid 19",
           "nav_button": {
             "onClickAction": {
@@ -51,18 +64,6 @@
           }
         }
       },
-      {
-        "id": "hero_section",
-        "sectionComponentType": "HERO",
-        "section": {
-          "type": "HeroSection",
-          "images": [
-            "https://raw.githubusercontent.com/codedeman/ssd_api/gh-pages/bg1%403x.png",
-            "https://raw.githubusercontent.com/codedeman/ssd_api/gh-pages/bg1%402x.png"
-          ]
-        }
-      },
-      
       {
          "id": "title_section",
         "sectionComponentType": "TITLE",
