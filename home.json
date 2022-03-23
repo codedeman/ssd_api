@@ -29,9 +29,9 @@
       },
       {
          "id": "title_section",
-        "sectionComponentType": "TITLE",
+        "sectionComponentType": "Des",
         "section": {
-          "type": "TitleSection",
+          "type": "Des",
           "title": "<font style='color:#72bf00'>Mô tả và một số lưu ý đối với tính năng chuyển tiền</font>",
           "titleStyle": {
             "color":"#72bf00"
