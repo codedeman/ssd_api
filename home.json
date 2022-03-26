@@ -12,13 +12,12 @@
             },
             "nav":{
                 "type": "SingleSectionPlacement",
-                "title": "<font style='color:#72bf00'>Mô tả và một số lưu ý đối với tính năng chuyển tiền</font>"
+                "title": "<font style='color:#ffffff'>Ủng hộ Quỹ vắc-xin Covid 19</font>"
             },
             
             "footer":{
                 "type": "footer",
-
-                "title": "<font style='color:#72bf00'>Mô tả và một số lưu ý đối với tính năng chuyển tiền</font>"
+                "title": "<font style='color:#ffffff'>Tiếp tục</font>"
 
             }
 
