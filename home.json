@@ -1,5 +1,31 @@
 {
     
+    "screens" :[
+        {
+            
+            "id":"ROOT",
+            "main":{
+                "type":"BACKGROUND",
+                "images": ["https://raw.githubusercontent.com/codedeman/ssd_api/gh-pages/bg1%403x.png",
+                                 "https://raw.githubusercontent.com/codedeman/ssd_api/gh-pages/bg1%402x.png"
+                        ]
+            },
+            "nav":{
+                "type": "SingleSectionPlacement",
+                "title": "<font style='color:#72bf00'>Mô tả và một số lưu ý đối với tính năng chuyển tiền</font>"
+            },
+            
+            "footer":{
+                "type": "footer",
+
+                "title": "<font style='color:#72bf00'>Mô tả và một số lưu ý đối với tính năng chuyển tiền</font>"
+
+            }
+
+            
+        }
+        
+    ],
     "sections":[
         
      
