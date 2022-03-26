@@ -40,6 +40,26 @@
       }
       },
       {
+      "id":"SOURCEACCOUNT",
+     "sectionComponentType": "SOURCEACCOUNT",
+     "section": {
+        "type": "SOURCEACCOUNT",
+        "title":"Tài khoản nguồn",
+        "content":{
+            "description":"Số dư khả dụng",
+            "sourceAccount":[
+            
+            ]
+        }
+        "nav_button": {
+          "onClickAction": {
+            "type": "NavigateBack",
+            "screenId": "previous_screen_id"
+          }
+        }
+      }
+    },
+      {
           "id": "title_section",
         "sectionComponentType": "TITLE",
         "section": {
