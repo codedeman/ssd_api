@@ -50,7 +50,7 @@
             "sourceAccount":[
             
             ]
-        }
+        },
         "nav_button": {
           "onClickAction": {
             "type": "NavigateBack",
