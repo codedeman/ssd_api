@@ -70,8 +70,8 @@
         "type": "BENE",
         "title":"<font style='color:#ffffff'>Thông tin đơn vị hưởng</font>",
         "images": [
-          "https://raw.githubusercontent.com/codedeman/ssd_api/gh-pages/icPersonWhite%403x.png",
-          "https://raw.githubusercontent.com/codedeman/ssd_api/gh-pages/icPersonWhite%403x.png"
+          "https://raw.githubusercontent.com/codedeman/ssd_api/gh-pages/icPersonWhite.png,
+          "https://raw.githubusercontent.com/codedeman/ssd_api/gh-pages/icPersonWhite.png"
         ],
         "content":{
             "title":"<font style='color:#ffffff'></font>",
