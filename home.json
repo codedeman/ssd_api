@@ -94,8 +94,8 @@
         "title":"<font style='color:#ffffff'>Thông tin giao dịch</font>",
         "right_title":"<font style='color:##72bf00'>Hạn mức</font>",
         "images": [
-          "https://raw.githubusercontent.com/codedeman/ssd_api/gh-pages/icPersonWhite.png",
-          "https://raw.githubusercontent.com/codedeman/ssd_api/gh-pages/icPersonWhite.png"
+          "https://raw.githubusercontent.com/codedeman/ssd_api/gh-pages/icCoinWhite.png",
+          "https://raw.githubusercontent.com/codedeman/ssd_api/gh-pages/icNoteGreen.png"
         ],
         "content":{
             "title":"<font style='color:#ffffff'></font>",
