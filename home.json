@@ -33,6 +33,7 @@
         "section": {
           "type": "Des",
           "title": "<font style='color:#72bf00'>Mô tả và một số lưu ý đối với tính năng chuyển tiền</font>",
+          "image_url":"",
           "titleStyle": {
             "color":"#72bf00"
             
@@ -44,9 +45,11 @@
      "sectionComponentType": "SOURCEACCOUNT",
      "section": {
         "type": "SOURCEACCOUNT",
-        "title":"Tài khoản nguồn",
+        "title":"<font style='color:#ffffff'>Thông tin người chuyển</font>",
+        "image_url":"",
         "content":{
-            "description":"Số dư khả dụng",
+            "title":"<font style='color:#ffffff'>Tài khoản nguồn</font>",
+            "subtitle":"<font style='color:#ffffff'>Số dư khả dụng</font>",
             "sourceAccount":[
             
             ]
