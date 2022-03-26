@@ -1,32 +1,8 @@
 {
+    
     "sections":[
         
-        {
-            "id":"background",
-            "sectionComponentType": "BACKGROUND",
-            "section":{
-                "type":"BACKGROUND",
-                "images": [
-                  "https://raw.githubusercontent.com/codedeman/ssd_api/gh-pages/bg1%403x.png",
-                  "https://raw.githubusercontent.com/codedeman/ssd_api/gh-pages/bg1%402x.png"
-                ]
-            }
-        },
-      {
-          
-        "id":"navbar_section",
-       "sectionComponentType": "Navbar",
-       "section": {
-          "type": "Navbar",
-          "title":"Ủng hộ Quỹ vắc-xin Covid 19",
-          "nav_button": {
-            "onClickAction": {
-              "type": "NavigateBack",
-              "screenId": "previous_screen_id"
-            }
-          }
-        }
-      },
+     
       {
          "id": "title_section",
         "sectionComponentType": "Des",
