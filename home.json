@@ -74,13 +74,13 @@
           "https://raw.githubusercontent.com/codedeman/ssd_api/gh-pages/icPersonWhite.png"
         ],
         "content":{
-            "title":"<font style='color:#ffffff'></font>",
+            "title":"<font style='color:#ffffff'>Tài khoản thụ hưởng<</font>",
             "subtitle":"<font style='color:#ffffff'>Tài khoản thụ hưởng</font>"
         },
         "nav_button": {
           "onClickAction": {
             "type": "NavigateBack",
-            "screenId": "previous_screen_id"
+            "screenId": "show_popup"
           }
         }
       }
