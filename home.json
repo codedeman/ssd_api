@@ -57,7 +57,7 @@
         },
         "nav_button": {
           "onClickAction": {
-            "type": "NavigateBack",
+            "type": "PopUp",
             "screenId": "previous_screen_id"
           }
         }
@@ -79,7 +79,7 @@
         },
         "nav_button": {
           "onClickAction": {
-            "type": "NavigateBack",
+            "type": "PopUp",
             "screenId": "show_popup"
           }
         }
