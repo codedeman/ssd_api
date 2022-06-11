@@ -1,0 +1,37 @@
+{
+    
+    "listFilms":[
+        {
+            
+            "id":"123",
+            "filmUrl":"https://chieuphimquocgia.com.vn/Content/Images/0016514_0.jpeg",
+            "name":"Doraemon và những người bạn",
+            "price":"100000"
+        },
+        {
+            
+            "id":"1234",
+            "filmUrl":"https://musicimage.xboxlive.com/catalog/video.movie.8D6KGX0M8V16/image?locale=fi-fi&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg",
+            "name":"Doraemon và những người bạn",
+            "price":"100000"
+            
+        },
+        {
+            
+            "id":"12345",
+            "filmUrl":"https://billboardvn.vn/wp-content/uploads/2019/04/Dua-Lipa-elle-cover-2019-billboard-1240.jpg",
+            "name":"Doraemon và những người bạn",
+            "price":"100000"
+            
+        },
+        {
+            
+            "id":"123456",
+            "filmUrl":"https://pbs.twimg.com/media/EtftmUjXUAkL1i7.jpg:large",
+            "name":"Doraemon và những người bạn",
+            "price":"100000"
+            
+        }
+    
+    ]
+}
