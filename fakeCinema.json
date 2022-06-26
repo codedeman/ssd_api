@@ -3,21 +3,6 @@
     "listFilms":[
         {
             
-            "id":"123",
-            "filmUrl":"https://www.cgv.vn/media/catalog/product/cache/1/image/1800x/71252117777b696995f01934522c402d/t/h/the_batman_1_.jpg",
-            "name":"Batman",
-            "price":"100000"
-        },
-        {
-            
-            "id":"1234",
-            "filmUrl":"https://photo-cms-plo.zadn.vn/w850/Uploaded/2022/wopsvun/2020_09_03/doaremon_wdyw.jpg",
-            "name":"Doraemon và những người bạn",
-            "price":"100000"
-            
-        },
-        {
-            
             "id":"12345",
             "filmUrl":"https://www.cgv.vn/media/catalog/product/cache/1/image/1800x/71252117777b696995f01934522c402d/d/r/dr-strange-payoff-poster_1_.jpg",
             "name":"Multiverse of madness",
