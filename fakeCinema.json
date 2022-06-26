@@ -43,24 +43,24 @@
         {
             
             "id":"1234",
-            "filmUrl":"https://media.gettyimages.com/photos/singersongwriter-skylar-grey-performs-on-day-3-of-bottlerock-napa-picture-id1146427637?s=612x612",
-            "name":"Doraemon và những người bạn",
+            "filmUrl":"https://www.venuscinema.vn/temp/-uploaded-phim_the%20kingman_cr_500x700.jpg",
+            "name":"Kings Man",
             "price":"100000"
             
         },
         {
             
             "id":"12345",
-            "filmUrl":"https://billboardvn.vn/wp-content/uploads/2019/04/Dua-Lipa-elle-cover-2019-billboard-1240.jpg",
-            "name":"Dua Lipa (/ˈduːə ˈliːpə/; Albanian: [ˈdua ˈlipa]; born 22 August 1995) is an English singer and songwriter. Possessing a mezzo-soprano vocal range, she is known for her signature disco-pop sound. Lipa has received numerous accolades, including six Brit Awards, three Grammy Awards, two MTV Europe Music Awards, an MTV Video Music Award, two Billboard Music Awards, an American Music Award, and two Guinness World Records.",
+            "filmUrl":"https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4431591_mission-impossible-6.jpg",
+            "name":"Mission Imposible",
             "price":"100000"
             
         },
         {
             
             "id":"123456",
-            "filmUrl":"https://pbs.twimg.com/media/EtftmUjXUAkL1i7.jpg:large",
-            "name":"Doraemon và những người bạn",
+            "filmUrl":"https://i.imgur.com/AhHCVLG.jpg",
+            "name":"Logan",
             "price":"100000"
             
         }
