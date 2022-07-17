@@ -26,7 +26,7 @@
             "id":"123",
             "filmUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQeGsl_A4uvS5AFrJ455FTI9Z6VQumgKSCBFHFNkjhx6tZBnPWzLRKzvzTRw9VfZjnwLU&usqp=CAU",
             "name":"Baby driver",
-            "price":"100000"
+            "price":"100000",
             "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers."
 
         },
@@ -35,7 +35,9 @@
             "id":"1234",
             "filmUrl":"https://www.venuscinema.vn/temp/-uploaded-phim_the%20kingman_cr_500x700.jpg",
             "name":"Kings Man",
-            "price":"100000"
+            "price":"100000",
+            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers."
+
             
         },
         {
@@ -43,15 +45,18 @@
             "id":"12345",
             "filmUrl":"https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4431591_mission-impossible-6.jpg",
             "name":"Mission Imposible",
-            "price":"100000"
-            
+            "price":"100000",
+            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers."
+
         },
         {
             
             "id":"123456",
             "filmUrl":"https://i.imgur.com/AhHCVLG.jpg",
             "name":"Logan",
-            "price":"100000"
+            "price":"100000",
+            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers."
+
             
         }
         
