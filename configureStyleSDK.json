@@ -1,0 +1,10 @@
+
+{
+    
+    "iconUrl":  { // define icon sdk
+        "home": ""
+    },
+    "colorPrimary":"#241A66ff",
+    "colorSecondary":"#ff37a5ff",
+    "colorButtonGradient": ["#ff37a5ff","#ff37a5ff"],
+}

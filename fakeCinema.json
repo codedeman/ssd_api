@@ -6,7 +6,8 @@
             "id":"12345",
             "filmUrl":"https://www.cgv.vn/media/catalog/product/cache/1/image/1800x/71252117777b696995f01934522c402d/d/r/dr-strange-payoff-poster_1_.jpg",
             "name":"Multiverse of madness",
-            "price":"100000"
+            "price":"100000",
+            "filmDes":"Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-"
             
         },
         {
@@ -14,7 +15,9 @@
             "id":"123456",
             "filmUrl":"https://ghienreview.com/wp-content/uploads/2021/04/Ghien-review-Nobody-Ke-vo-danh-01-min-1024x752.jpg",
             "name":"Nobody",
-            "price":"100000"
+            "price":"100000",
+            "filmDes":"Hutch Mansell finds his life changed when a few thieves break into his house. While trying to punish the thieves, he ends up earning the wrath of a crime lord, Yulian, after he attacks his brother."
+
             
         },
         
@@ -24,6 +27,8 @@
             "filmUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQeGsl_A4uvS5AFrJ455FTI9Z6VQumgKSCBFHFNkjhx6tZBnPWzLRKzvzTRw9VfZjnwLU&usqp=CAU",
             "name":"Baby driver",
             "price":"100000"
+            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers."
+
         },
         {
             
