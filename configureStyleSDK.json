@@ -1,10 +1,10 @@
 
 {
-    
-    "iconUrl":  { // define icon sdk
+    "urlIcon":  { // define icon sdk
         "home": ""
     },
-    "colorPrimary":"#241A66ff",
-    "colorSecondary":"#ff37a5ff",
-    "colorButtonGradient": ["#ff37a5ff","#ff37a5ff"],
+    "primaryColor":"#2501b", // màu nâu chính
+    "gradientButtonColor": ["#F9C734"  "#72501B"],
+    "chexboxColor":"####"
+    "selectedColor":"####"
 }

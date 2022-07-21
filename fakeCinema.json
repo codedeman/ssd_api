@@ -1,15 +1,14 @@
 {
-    
     "listFilms":[
         {
-            
             "id":"12345",
             "filmUrl":"https://www.cgv.vn/media/catalog/product/cache/1/image/1800x/71252117777b696995f01934522c402d/d/r/dr-strange-payoff-poster_1_.jpg",
             "name":"Multiverse of madness",
             "price":"100000",
             "filmDes":"Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-"
             
-        },
+        }
+        
         {
             
             "id":"123456",
@@ -17,7 +16,7 @@
             "name":"Nobody",
             "price":"100000",
             "filmDes":"Hutch Mansell finds his life changed when a few thieves break into his house. While trying to punish the thieves, he ends up earning the wrath of a crime lord, Yulian, after he attacks his brother."
-
+            
             
         },
         
@@ -28,7 +27,7 @@
             "name":"Baby driver",
             "price":"100000",
             "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers."
-
+            
         },
         {
             
@@ -37,7 +36,7 @@
             "name":"Kings Man",
             "price":"100000",
             "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers."
-
+            
             
         },
         {
@@ -47,7 +46,7 @@
             "name":"Mission Imposible",
             "price":"100000",
             "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers."
-
+            
         },
         {
             
@@ -56,11 +55,71 @@
             "name":"Logan",
             "price":"100000",
             "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers."
-
+            
+            
+        },
+        {
+            
+            "id":"123456",
+            "filmUrl":"https://i.imgur.com/AhHCVLG.jpg",
+            "name":"Logan",
+            "price":"100000",
+            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers."
+            
+            
+        },
+        {
+            
+            "id":"123456",
+            "filmUrl":"https://i.imgur.com/AhHCVLG.jpg",
+            "name":"Logan",
+            "price":"100000",
+            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers."
+            
+            
+        },
+        {
+            
+            "id":"123456",
+            "filmUrl":"https://i.imgur.com/AhHCVLG.jpg",
+            "name":"Logan",
+            "price":"100000",
+            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers."
+            
+            
+        },
+        {
+            
+            "id":"123456",
+            "filmUrl":"https://i.imgur.com/AhHCVLG.jpg",
+            "name":"Logan",
+            "price":"100000",
+            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers."
+            
+            
+        },
+        {
+            
+            "id":"123456",
+            "filmUrl":"https://i.imgur.com/AhHCVLG.jpg",
+            "name":"Logan",
+            "price":"100000",
+            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers."
+            
+            
+        },
+        {
+            
+            "id":"123456",
+            "filmUrl":"https://i.imgur.com/AhHCVLG.jpg",
+            "name":"Logan",
+            "price":"100000",
+            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers."
+            
             
         }
         
         
-    
+        
     ]
 }
