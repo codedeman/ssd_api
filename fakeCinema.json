@@ -5,7 +5,8 @@
             "filmUrl":"https://www.cgv.vn/media/catalog/product/cache/1/image/1800x/71252117777b696995f01934522c402d/d/r/dr-strange-payoff-poster_1_.jpg",
             "name":"Multiverse of madness",
             "price":"100000",
-            "filmDes":"Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-"
+            "filmDes":"Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-",
+            "releaseDate":"27/07/2022"
             
         },
         
@@ -15,7 +16,9 @@
             "filmUrl":"https://ghienreview.com/wp-content/uploads/2021/04/Ghien-review-Nobody-Ke-vo-danh-01-min-1024x752.jpg",
             "name":"Nobody",
             "price":"100000",
-            "filmDes":"Hutch Mansell finds his life changed when a few thieves break into his house. While trying to punish the thieves, he ends up earning the wrath of a crime lord, Yulian, after he attacks his brother."
+            "filmDes":"Hutch Mansell finds his life changed when a few thieves break into his house. While trying to punish the thieves, he ends up earning the wrath of a crime lord, Yulian, after he attacks his brother.",
+            "releaseDate":"28/07/2022"
+
             
             
         },
@@ -26,8 +29,9 @@
             "filmUrl":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQeGsl_A4uvS5AFrJ455FTI9Z6VQumgKSCBFHFNkjhx6tZBnPWzLRKzvzTRw9VfZjnwLU&usqp=CAU",
             "name":"Baby driver",
             "price":"100000",
-            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers."
-            
+            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers.",
+            "releaseDate":"29/07/2022"
+
         },
         {
             
@@ -35,9 +39,9 @@
             "filmUrl":"https://www.venuscinema.vn/temp/-uploaded-phim_the%20kingman_cr_500x700.jpg",
             "name":"Kings Man",
             "price":"100000",
-            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers."
-            
-            
+            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers.",
+            "releaseDate":"30/07/2022"
+
         },
         {
             
@@ -45,7 +49,9 @@
             "filmUrl":"https://s3.cloud.cmctelecom.vn/tinhte1/2018/09/4431591_mission-impossible-6.jpg",
             "name":"Mission Imposible",
             "price":"100000",
-            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers."
+            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers.",
+            "releaseDate":"31/07/2022"
+
             
         },
         {
@@ -54,18 +60,9 @@
             "filmUrl":"https://i.imgur.com/AhHCVLG.jpg",
             "name":"Logan",
             "price":"100000",
-            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers."
-            
-            
-        },
-        {
-            
-            "id":"123456",
-            "filmUrl":"https://i.imgur.com/AhHCVLG.jpg",
-            "name":"Logan",
-            "price":"100000",
-            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers."
-            
+            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers.",
+            "releaseDate":"01/08/2022"
+
             
         },
         {
@@ -74,18 +71,9 @@
             "filmUrl":"https://i.imgur.com/AhHCVLG.jpg",
             "name":"Logan",
             "price":"100000",
-            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers."
-            
-            
-        },
-        {
-            
-            "id":"123456",
-            "filmUrl":"https://i.imgur.com/AhHCVLG.jpg",
-            "name":"Logan",
-            "price":"100000",
-            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers."
-            
+            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers.",
+            "releaseDate":"02/08/2022"
+
             
         },
         {
@@ -94,18 +82,9 @@
             "filmUrl":"https://i.imgur.com/AhHCVLG.jpg",
             "name":"Logan",
             "price":"100000",
-            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers."
-            
-            
-        },
-        {
-            
-            "id":"123456",
-            "filmUrl":"https://i.imgur.com/AhHCVLG.jpg",
-            "name":"Logan",
-            "price":"100000",
-            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers."
-            
+            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers.",
+            "releaseDate":"03/08/2022"
+
             
         },
         {
@@ -114,8 +93,42 @@
             "filmUrl":"https://i.imgur.com/AhHCVLG.jpg",
             "name":"Logan",
             "price":"100000",
-            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers."
+            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers.",
+            "releaseDate":"03/08/2022"
+
             
+        },
+        {
+            
+            "id":"123456",
+            "filmUrl":"https://i.imgur.com/AhHCVLG.jpg",
+            "name":"Logan",
+            "price":"100000",
+            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers.",
+            "releaseDate":"03/08/2022"
+
+            
+        },
+        {
+            
+            "id":"123456",
+            "filmUrl":"https://i.imgur.com/AhHCVLG.jpg",
+            "name":"Logan",
+            "price":"100000",
+            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers.",
+            "releaseDate":"03/08/2022"
+
+            
+        },
+        {
+            
+            "id":"123456",
+            "filmUrl":"https://i.imgur.com/AhHCVLG.jpg",
+            "name":"Logan",
+            "price":"100000",
+            "filmDes":" Doc forces Baby, a former getaway driver, to partake in a heist, threatening to hurt his girlfriend if he refuses. But the plan goes awry when their arms dealers turn out to be undercover officers.",
+            "releaseDate":"03/08/2022"
+
             
         }
         

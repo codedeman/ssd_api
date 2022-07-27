@@ -8,3 +8,19 @@
     "chexboxColor":"####"
     "selectedColor":"####"
 }
+
+
+// ConfigStyle Ve xe
+
+
+
+
+
+{
+    "urlIcon":  { // define icon sdk
+        "home": ""
+    },
+    "primaryColor":"#241A66", // màu xanh chính
+    "gradientButtonColor": ["#ff37a5"  "#ff37a5"] // màu gradient. ,
+    "secondaryColor":"#FF37A5"// màu hồng.
+}
