@@ -1,0 +1,16 @@
+{
+  "availableLOC": {
+    "currencyCode": "SGD",
+    "val": 10000
+  },
+  "offeredInterestRate": 3.00,
+  "offeredEIR": 5.45,
+  "min": {
+    "currencyCode": "SGD",
+    "val": 200
+  },
+  "max": {
+    "currencyCode": "SGD",
+    "val": 10000
+  }
+}
